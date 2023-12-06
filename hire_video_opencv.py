@@ -3,7 +3,7 @@ import numpy as np
 
 # Функция для создания видео с бегущей строкой
 def create_hire_video_opencv():
-    # Текст поздравления
+    # Текст
     hire_message = "Thank you for hiring me! :)"
 
     # Размеры видео (ширина x высота)
